@@ -40,7 +40,7 @@ Side projects I'm actively building — rough edges and all.
 
 ### 🗂 Alltagssätze
 A hobby project that was motivated by me trying to improve my German and how I Perceive sentence structures easily, deployed on Vercel.
-→ [Live preview](https://alltagss-k4804qayg-hassan-ahmeds-projects-92c3211e.vercel.app/)
+→ [Live preview](https://alltagss-tze.vercel.app/)
 
 ### ☁️ [CloudMirror](https://github.com/Gooner91/cloudmirror)
 A lightweight Go CLI that backs up local files and folders to Google Drive. You define source-to-destination mappings once and it handles the rest. First real Go project — learned a lot building it.
