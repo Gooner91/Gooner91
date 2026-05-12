@@ -39,7 +39,7 @@ When I'm not at the keyboard I'm probably watching football ⚽, playing video g
 Side projects I'm actively building — rough edges and all.
 
 ### 🗂 Alltagssätze
-A hobby project that was motivated by me trying to improve my German and how I Perceive sentence structures easily, deployed on Vercel.
+A hobby project powered by Next.js and Claude that was motivated by me trying to improve my German and how I Perceive sentence structures easily, deployed on Vercel.
 → [Live preview](https://alltagss-tze.vercel.app/)
 
 ### ☁️ [CloudMirror](https://github.com/Gooner91/cloudmirror)
